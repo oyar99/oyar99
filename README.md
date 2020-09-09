@@ -22,9 +22,5 @@
 
 ---
 
-### Stats
-
-<img align="left" alt="JhonRayoCoder Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JhonRayoCoder&show_icons=true&hide_border=true" />
-
 
 
