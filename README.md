@@ -1,4 +1,4 @@
-tHey there,
+Hey there,
 
 ### Languages and Tools
 
@@ -22,6 +22,6 @@ tHey there,
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonRayoCoder"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonRayoCoder&theme=dark"/>
 
 
