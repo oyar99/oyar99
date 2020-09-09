@@ -13,11 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="jhon-rayo"><a class="LI-simple-link" href='https://co.linkedin.com/in/jhon-rayo?trk=profile-badge'>Jhon Rayo</a></div>
-
-### Languages and Tools:
+### Languages and Tools
 
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
@@ -37,5 +33,9 @@ Here are some ideas to get you started:
 <br />
 
 ---
+
+### Stats
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JhonRayoCoder&show_icons=true&hide_border=true" />
 
 
