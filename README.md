@@ -1,4 +1,4 @@
-### Hi There, I am Jhon Rayo!
+tHey there,
 
 ### Languages and Tools
 
@@ -22,5 +22,6 @@
 
 ---
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonRayoCoder"/>
 
 
