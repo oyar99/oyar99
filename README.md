@@ -22,6 +22,6 @@ Hey there,
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonRayoCoder&theme=dark"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonRayoCoder&theme=dark&layout=compact"/>
 
 
