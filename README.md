@@ -1,5 +1,3 @@
-Hey there,
-
 ### Languages and Tools
 
 
@@ -24,4 +22,11 @@ Hey there,
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonRayoCoder&theme=dark&layout=compact"/>
 
+<!--
+Find me on [![LinkedIn][2.2]][2].
 
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+
+[2]: https://www.linkedin.com/in/jhon-rayo/
+
+-->
