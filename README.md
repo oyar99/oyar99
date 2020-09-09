@@ -38,10 +38,7 @@ Here are some ideas to get you started:
 
 ### Stats
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JhonRayoCoder&show_icons=true&hide_border=true" />
+<img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JhonRayoCoder&show_icons=true&hide_border=true" />
 
-<br />
-
----
 
 
