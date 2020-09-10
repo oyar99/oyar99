@@ -20,13 +20,4 @@
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonRayoCoder&theme=dark&layout=compact"/>
-
-<!--
-Find me on [![LinkedIn][2.2]][2].
-
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
-
-[2]: https://www.linkedin.com/in/jhon-rayo/
-
--->
+<a href="https://www.linkedin.com/in/jhonrayo"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
