@@ -3,7 +3,8 @@
 
 &nbsp; Hey there, I'm a Software Developer who likes to solve problems. These are all the major things I am passionate about
 
-- 💻 Competitive Programming
+- 💻 Algorithms and Data Structures
+- :closed_lock_with_key: Cryptography
 -  📱 &nbsp; Mobile Development
 - 👨🏻‍💻 Backend Development 
 - 🏫 Education
