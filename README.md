@@ -6,7 +6,7 @@
 - 💻 Algorithms and Data Structures
 - :closed_lock_with_key: Cryptography
 -  📱 &nbsp; Mobile Development
-- 👨🏻‍💻 Backend Development 
+- 👨🏻‍💻 Full Stack Development
 - 🏫 Education
 - 📚 Research 
 - 🕹️ Video Games
