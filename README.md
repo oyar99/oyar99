@@ -30,8 +30,6 @@
 ![Angular](https://img.shields.io/badge/-angular-black?style=flat-square&logo=angular)
 ![React](https://img.shields.io/badge/-react-black?style=flat-square&logo=react)
 
-<br />
-
 ---
 
 ### Find me on
