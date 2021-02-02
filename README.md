@@ -25,7 +25,7 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![IOS](https://img.shields.io/badge/?style=flat-square&logo=ios)
+![IOS](https://img.shields.io/badge/-iOS?style=flat-square&logo=ios)
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
