@@ -27,7 +27,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![IOS](https://img.shields.io/badge/-ios-black?style=flat-square&logo=ios)
 ![Android](https://img.shields.io/badge/-android-black?style=flat-square&logo=android)
-![Angular](https://img.shields.io/badge/-angular-black?style=flat-square&logo=angular)
+![Angular](https://img.shields.io/badge/-angular-red?style=flat-square&logo=angular)
 ![React](https://img.shields.io/badge/-react-black?style=flat-square&logo=react)
 
 ---
