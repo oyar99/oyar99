@@ -35,5 +35,5 @@
 
 
 <a href="https://www.linkedin.com/in/jhon-rayo"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-<a href="https://stackoverflow.com/users/12763211/jhonrayo99?tab=profile"><img src="https://img.shields.io/badge/StackOverflow--_.svg?style=social&logo=stackoverflow" alt="Stack Overflow"></a>
-<a href="https://stackexchange.com/users/17591418/jhonrayo99?tab=accounts"><img src="https://img.shields.io/badge/StackExchange--_.svg?style=social&logo=stackexchange" alt="Stack Exchange"></a>
+
+<a href="https://stackexchange.com/users/17591418/jhonrayo99"><img src="https://stackexchange.com/users/flair/17591418.png" width="208" height="58" alt="profile for JhonRayo99 on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for JhonRayo99 on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
