@@ -41,7 +41,7 @@
 - Mobile Development:
 
 ![Android](https://img.shields.io/badge/-Android?style=flat-square&logo=android&color=rgba(0,0,0,0)&label=Android&labelColor=rgba(0,0,0,0.0))
-![iOS](https://img.shields.io/badge/-iOS?style=flat-square&logo=ios&color=rgba(0,0,0,0)&label=iOS&labelColor=rgba(0,0,0,0.0))
+![iOS](https://img.shields.io/badge/-iOS?style=flat-square&logo=apple&color=rgba(0,0,0,0)&label=iOS&labelColor=rgba(0,0,0,0.0))
 
 - Databases:
 
@@ -52,12 +52,20 @@
 
 ![Git](https://img.shields.io/badge/-git?style=flat-square&logo=git&color=rgba(0,0,0,0)&label=Git&labelColor=rgba(0,0,0,0.0))
 ![GitHubActions](https://img.shields.io/badge/-githubactions?style=flat-square&logo=github-actions&color=rgba(0,0,0,0)&label=GitHub%20Actions&labelColor=rgba(0,0,0,0.0))
+![Azure DevOps](https://img.shields.io/badge/-azureDevOps?style=flat-square&logo=Azure-DevOps&&logoColor=0078d7&color=rgba(0,0,0,0)&label=Azure%20DevOps&labelColor=rgba(0,0,0,0.0))
 
 - OS & web servers:
 
 ![Windows](https://img.shields.io/badge/-windows?style=flat-square&logo=windows&logoColor=blue&color=rgba(0,0,0,0)&label=Windows&labelColor=rgba(0,0,0,0.0))
 ![Linux](https://img.shields.io/badge/-linux?style=flat-square&logo=linux&color=rgba(0,0,0,0)&label=Linux&labelColor=rgba(0,0,0,0.0))
 ![Apache](https://img.shields.io/badge/-apache?style=flat-square&logo=apache&logoColor=D22128&color=rgba(0,0,0,0)&label=Apache&labelColor=rgba(0,0,0,0.0))
+
+- Code Editors and IDEs
+
+![VSCode](https://img.shields.io/badge/-vscode?style=flat-square&logo=Visual-Studio-Code&logoColor=007acc&color=rgba(0,0,0,0)&label=VSCode&labelColor=rgba(0,0,0,0.0))
+![NotePad](https://img.shields.io/badge/-notepaad?style=flat-square&logo=Notepad%2B%2B&logoColor=90E59A&color=rgba(0,0,0,0)&label=Notepad%2B%2B&labelColor=rgba(0,0,0,0.0))
+![Vim](https://img.shields.io/badge/-vim?style=flat-square&logo=Vim&logoColor=019733&color=rgba(0,0,0,0)&label=Vim&labelColor=rgba(0,0,0,0.0))
+![VS](https://img.shields.io/badge/-vs?style=flat-square&logo=Visual-Studio&logoColor=5C2D91&color=rgba(0,0,0,0)&label=VS&labelColor=rgba(0,0,0,0.0))
 
 ---
 
