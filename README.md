@@ -1,16 +1,19 @@
 
-### 🧔 About
+### 👋 Hey there!
 
-&nbsp; Hey there, I'm a Software Developer who likes to solve problems. These are all the major things I am passionate about
+I am a Software Engineer who is passionate about
 
 - 💻 Algorithms and Data Structures
-- :closed_lock_with_key: Cryptography
--  📱 &nbsp; Mobile Development
-- 👨🏻‍💻 Full Stack Development
+- 👨🏻‍💻 Software Development
 - 🏫 Education
-- 📚 Research 
-- 🕹️ Video Games
+- 📚 Research
+- 🏐 Volleyball
+- ⚽ Football
 - ✈️ Traveling
+
+What countries have I been to?
+
+🇨🇴🇨🇦🇺🇸🇦🇺
 
 ---
 
@@ -47,6 +50,7 @@
 
 ![SQLServer](https://img.shields.io/badge/-microsfotsqlserver?style=flat-square&logo=Microsoft-Sql-Server&logoColor=red&label=SQL%20Server&labelColor=rgba(0,0,0,0)&color=rgba(0,0,0,0))
 ![MySQL](https://img.shields.io/badge/-MySQL?style=flat-square&logo=mysql&color=rgba(0,0,0,0)&label=MySQL&labelColor=rgba(0,0,0,0.0))
+![PostgreSQL](https://img.shields.io/badge/-postgresql?style=flat-square&logo=postgresql&color=rgba(0,0,0,0)&label=MySQL&labelColor=rgba(0,0,0,0.0))
 
 - Version Control & CI/CD:
 
