@@ -36,6 +36,7 @@ What countries have I been to?
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap?style=flat-square&logo=bootstrap&color=rgba(0,0,0,0)&label=Bootstrap&labelColor=rgba(0,0,0,0.0))
 ![Angular](https://img.shields.io/badge/-Angular?style=flat-square&logo=angular&logoColor=DD0031&color=rgba(0,0,0,0)&label=Angular&labelColor=rgba(0,0,0,0.0))
 ![React](https://img.shields.io/badge/-React?style=flat-square&logo=react&color=rgba(0,0,0,0)&label=React&labelColor=rgba(0,0,0,0.0))
+![Redux](https://img.shields.io/badge/-Redux?style=flat-square&logo=redux&color=rgba(0,0,0,0)&label=Redux&labelColor=rgba(0,0,0,0.0))
 
 - Backend frameworks and tools:
 
