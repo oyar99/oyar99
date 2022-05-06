@@ -41,6 +41,7 @@ What countries have I been to?
 - Backend frameworks and tools:
 
 ![netCore](https://img.shields.io/badge/-ASP_NET?style=flat-square&logo=microsoft&logoColor=purple&color=rgba(0,0,0,0)&label=Net%20Core&labelColor=rgba(0,0,0,0.0))
+![Spring](https://img.shields.io/badge/-Spring?style=flat-square&logo=spring&color=rgba(0,0,0,0)&label=Spring&labelColor=rgba(0,0,0,0.0))
 
 - Mobile Development:
 
@@ -76,7 +77,5 @@ What countries have I been to?
 
 ### Find me on
 
-
-<a href="https://www.linkedin.com/in/jhon-rayo"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-
-<a href="https://stackexchange.com/users/17591418/jhonrayo99"><img src="https://stackexchange.com/users/flair/17591418.png" width="208" height="58" alt="profile for JhonRayo99 on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for JhonRayo99 on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+[![Linkedin Badge](https://img.shields.io/badge/-jhonrayo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhon-rayo/)](https://www.linkedin.com/in/jhon-rayo/)
+[![Stackexchange Badge](https://img.shields.io/badge/-jhonrayo-white?style=flat-square&logo=Stackexchange&link=https://stackexchange.com/users/17591418/jhonrayo99/)](https://stackexchange.com/users/17591418/jhonrayo99/)
