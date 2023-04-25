@@ -3,19 +3,13 @@
 
 I am a Software Engineer who is passionate about
 
-- 💻 Algorithms and Data Structures
 - 👨🏻‍💻 Software Development
 - 🏫 Education
 - 📚 Research
-- 🏐 Volleyball
-- ⚽ Football
+- 💚 Volunteering
+- 🥾 Hiking
+- 🪂 Extreme Sports
 - ✈️ Traveling
-
-What countries have I been to?
-
-🇨🇴🇵🇪🇨🇦🇺🇸🇦🇺
-
----
 
 ### ⚙️ Skills
 
